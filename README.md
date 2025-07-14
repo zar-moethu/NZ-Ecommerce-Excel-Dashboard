@@ -1,39 +1,50 @@
-**Learning**:
-Every project, no matter how complex it seems, can be tackled with a clear framework and a willingness to iterate.Effective data analytics doesn't have to be complex. It's about starting simple, understanding stakeholder needs, and building a solution that turns data into decisions.
+📍 Project Overview: The Framework for Insight
+
+This project is built on a key principle: effective data analytics doesn't have to be complex. It’s about starting simple with a clear framework, a willingness to iterate according to stakeholder needs and translating those requirements into solutions that turn data into decisions.
+
+To demonstrate this, I analyzed a fictional New Zealand e-commerce business. The dataset was custom-built using the Python programming language and the final dashboard was developed entirely in Microsoft Excel.
 
 📖 **The Stages of Data Analysis**
-This project followed a complete end-to-end data analysis approach. Here’s what each stage looked like:
+The project followed a structured approach, outlined in the stages below:
 
 *1. Business Understanding*
-Every dataset tells a story. The challenge is to find it. Our story begins with a large dataset of e-commerce transactions and a simple business need: to understand performance beyond just top-line revenue. We needed to answer critical questions about profitability, regional performance, and product trends.
+
+Every dataset tells a story. Our project began with thousands of New Zealand e-commerce transactions and a clear mission: to answer the questions that matter most to stakeholders—what’s fueling profit, how do regions compare, and which products shape our growth?
 
 *2. Data Cleaning and Preparation*
 
- - The dataset was custom-built using the Python programming language and was cleaned and the final dashboard was developed entirely in Microsoft Excel.
+The dataset was custom-built and cleaned using Python to ensure data quality and consistency. The final interactive dashboard was then developed entirely in Microsoft Excel.
 
 *3. 🔧 Feature Engineering*
- - engineered new features from the existing data:
-   - Year: Extracted from the Order Date to enable time-series and Year-over-Year (YoY) analysis.
-    - Financial Ration calcuatilation including Profit Margin: Calculated using the formula Profit / Sales to provide a clear measure of profitability for each transaction.
+
+New features were engineered to meet the needs of the analysis:
+Year: Extracted from the order date to enable time-series and year-over-year (YoY) analysis.
+Financial Ratios: Calculated key metrics such as Profit Margin (Profit / Sales) to provide a clear measure of profitability for each transaction.
 
 *4. 💡 Analysis and Insight Generation*
-With a clean dataset and enhances features, we used Excel PivotTables, Pivotchart and formulas to uncover key insights as showsn below:
+With a clean dataset and enhanced features, we used Excel PivotTables, PivotCharts, and calculated key KPI metrics to provide a clear, actionable overview of business performance. The dashboard highlights:
 
-📈 Sales & Profit Trends: The dashboard reveals a healthy YoY growth across all key metrics, including a +2.83% increase in Sales and a +3.76% increase in Profit. The monthly trend chart shows seasonality, with sales typically peaking towards the end of the year.
+Key Performance Indicators (KPIs):
+At the top, interactive KPI cards show essential metrics, including ***(2023 to 2024 growth)***:
+
+Sales: $6,838,916.49 (YoY Growth: +2.83%)
+Profit: $826,085.96 (YoY Growth: +3.76%)
+Quantity Sold: 49,666 units (YoY Growth: +0.35%)
+Number of Orders: 9,000 (YoY Growth: +1.95%)
+Profit Margin: 12.08% (YoY Growth: +0.90%)
+
+📈 Sales & Profit Trends: The sales and profit analysis chart shows relatively consistent performance across the year with a slight increase toward the end of the year.
 
 🛍️ Top-Selling Products: The analysis highlights the "Top 5 Sales Products," with Binders and Tables leading the pack. This allows for targeted inventory and marketing strategies.
 
-🗺️ Regional Performance: The map visualization provides an immediate, powerful view of sales distribution. It confirms that major urban centers are the primary revenue drivers, but also identifies potential growth areas in other regions.
+🗺️ Regional Performance: The interactive map visualizes sales distribution across New Zealand’s regions, allowing users to see which areas generate the highest revenue
 
 📊 Category Performance: While Furniture accounts for the largest share of sales (34.04%), the "Profit by Category" chart shows that Technology is the most profitable category, indicating higher margins on those products.
 
-4. 🎨 *Visualization: Dashboard Overview*
+*5. 🎨  Visualization: Dashboard Overview*
 
-The final output is a single-page, interactive dashboard offering a comprehensive view of business performance. Stakeholders can filter data by year, region (across New Zealand) and customer segment to drill down into specific areas of interest. 
-<img width="1426" height="868" alt="image" src="https://github.com/user-attachments/assets/7fcb124f-1fc3-4fe4-8d38-ca64f394dd61" />
-
-🏆 **Conclusion**
-This project demonstrates a complete, end-to-end analytical workflow within Microsoft Excel. It proves that with a solid framework, any dataset can be transformed into a strategic asset that tells a compelling story and drives informed business decisions. 
+The final result is a single-page interactive dashboard showing a comprehensive view of business performance. Stakeholders can filter data by year, region (across New Zealand) and customer segment to drill down into specific areas of interest. 
+<img width="712" height="428" alt="image" src="https://github.com/user-attachments/assets/11ad430b-4569-483e-8e89-f9c17ecea258" />
 
 📂 **Project Files**
 The complete project, including the final Excel dashboard, the framework for creating PivotTables and PivotCharts, KPI metric calculations and the cleaned data source can be found in this repository.
@@ -43,8 +54,8 @@ The complete project, including the final Excel dashboard, the framework for cre
 - [`Dashboard Overview.png`](https://github.com/zar-moethu/NZ-Ecommerce-Excel-Dashboard/blob/Dashboard/Dashboard%20Overview.png) – Visual preview of the dashboard
 
 **How to use this project:**
+I believe every analyst’s journey is strengthened by an open mindset and a willingness to receive feedback. I welcome your thoughts, suggestions and collaboration on this project.
 
-I believe every analyst’s journey is strengthened by openness to feedback mindset. I welcome your thoughts, suggestions and collaboration on this project.
 Feel free to download, explore, and adapt the dashboard for your own analysis or business needs. If you have feedback or want to collaborate, please reach out.
 
 
