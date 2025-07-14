@@ -5,6 +5,7 @@ This project is built on a key principle: effective data analytics doesn't have 
 To demonstrate this, I analyzed a fictional New Zealand e-commerce business. The dataset was custom-built using the Python programming language and the final dashboard was developed entirely in Microsoft Excel.
 
 📖 **The Stages of Data Analysis**
+
 The project followed a structured approach, outlined in the stages below:
 
 *1. Business Understanding*
@@ -44,6 +45,8 @@ Profit Margin: 12.08% (YoY Growth: +0.90%)
 *5. 🎨  Visualization: Dashboard Overview*
 
 The final result is a single-page interactive dashboard showing a comprehensive view of business performance. Stakeholders can filter data by year, region (across New Zealand) and customer segment to drill down into specific areas of interest. 
+
+
 <img width="712" height="428" alt="image" src="https://github.com/user-attachments/assets/11ad430b-4569-483e-8e89-f9c17ecea258" />
 
 📂 **Project Files**
