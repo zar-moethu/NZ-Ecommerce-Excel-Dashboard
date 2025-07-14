@@ -2,7 +2,7 @@
 
 This project is built on a key principle: effective data analytics doesn't have to be complex. It’s about starting simple with a clear framework, a willingness to iterate according to stakeholder needs and translating those requirements into solutions that turn data into decisions.
 
-To demonstrate this, I analyzed a fictional New Zealand e-commerce business. The dataset was custom-built using the Python programming language and the final dashboard was developed entirely in Microsoft Excel.
+To demonstrate this, I analyzed a fictional New Zealand e-commerce business, with data covering the years from 2021 to 2025. The dataset was custom-built and cleaned using the Python programming language.The final interactive dashboard was developed entirely in Microsoft Excel.
 
 📖 **The Stages of Data Analysis**
 
@@ -14,7 +14,7 @@ Every dataset tells a story. Our project began with thousands of New Zealand e-c
 
 *2. Data Cleaning and Preparation*
 
-The dataset was custom-built and cleaned using Python to ensure data quality and consistency. The final interactive dashboard was then developed entirely in Microsoft Excel.
+The dataset was custom-built and cleaned using Python to ensure data quality and consistency. The final interactive dashboard was then developed entirely in Microsoft Excel. This stage involved standardizing data, verifying data types for analysis, and handling missing values.
 
 *3. 🔧 Feature Engineering*
 
@@ -23,16 +23,13 @@ Year: Extracted from the order date to enable time-series and year-over-year (Yo
 Financial Ratios: Calculated key metrics such as Profit Margin (Profit / Sales) to provide a clear measure of profitability for each transaction.
 
 *4. 💡 Analysis and Insight Generation*
-With a clean dataset and enhanced features, we used Excel PivotTables, PivotCharts, and calculated key KPI metrics to provide a clear, actionable overview of business performance. The dashboard highlights:
+
+PivotTables, PivotCharts were utlised and calculated KPI metrics to provide a clear, actionable overview of business performance. The dashboard highlights:
 
 Key Performance Indicators (KPIs):
 At the top, interactive KPI cards show essential metrics, including ***(2023 to 2024 growth)***:
 
-Sales: $6,838,916.49 (YoY Growth: +2.83%)
-Profit: $826,085.96 (YoY Growth: +3.76%)
-Quantity Sold: 49,666 units (YoY Growth: +0.35%)
-Number of Orders: 9,000 (YoY Growth: +1.95%)
-Profit Margin: 12.08% (YoY Growth: +0.90%)
+Sales: $6,838,916.49 (YoY Growth: +2.83%), indciating sales grew by 2.83% in 2024 compared to the previous year (2023).
 
 📈 Sales & Profit Trends: The sales and profit analysis chart shows relatively consistent performance across the year with a slight increase toward the end of the year.
 
