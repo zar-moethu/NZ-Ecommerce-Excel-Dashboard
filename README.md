@@ -35,10 +35,13 @@ The final output is a single-page, interactive dashboard offering a comprehensiv
 This project demonstrates a complete, end-to-end analytical workflow within Microsoft Excel. It proves that with a solid framework, any dataset can be transformed into a strategic asset that tells a compelling story and drives informed business decisions. 
 
 📂 Project Files
-The complete project—including the final Excel dashboard, the framework for creating PivotTables and PivotCharts, KPI metric calculations, and the cleaned data source—can be found in this repository.
+The complete project, including the final Excel dashboard, the framework for creating PivotTables and PivotCharts, KPI metric calculations and the cleaned data source can be found in this repository.
 
 Final Dashboard with Cleaned Dataset:
-(https://github.com/zar-moethu/NZ-Ecommerce-Excel-Dashboard/blob/Dashboard/Dashboard%20%26%20Dataset.xlsx)
+- [`Dashboard & Dataset.xlsx`](https://github.com/zar-moethu/NZ-Ecommerce-Excel-Dashboard/blob/Dashboard/Dashboard%20%26%20Dataset.xlsx) – Interactive Excel dashboard and cleaned dataset
+- [`data_dictionary.csv`](#) – Data dictionary for key fields *(replace # with your file link if available)*
+- [`dashboard_screenshot.png`](#) – Visual preview of the dashboard *(replace # with your file link if available)*
+
 
 
 
