@@ -26,9 +26,8 @@ Financial Ratios: Calculated key metrics such as Profit Margin (Profit / Sales) 
 
 PivotTables, PivotCharts were utlised and calculated KPI metrics to provide a clear, actionable overview of business performance. The dashboard highlights:
 
-Key Performance Indicators (KPIs):
+⭐ Key Performance Indicators (KPIs):
 At the top, interactive KPI cards show essential metrics, including ***(2023 to 2024 growth)***:
-
 Sales: $6,838,916.49 (YoY Growth: +2.83%), indciating sales grew by 2.83% in 2024 compared to the previous year (2023).
 
 📈 Sales & Profit Trends: The sales and profit analysis chart shows relatively consistent performance across the year with a slight increase toward the end of the year.
