@@ -29,7 +29,8 @@ With a clean dataset and enhances features, we used Excel PivotTables, Pivotchar
 
 4. 🎨 *Visualization: Dashboard Overview*
 
-The final output is a single-page, interactive dashboard offering a comprehensive view of business performance. Stakeholders can filter data by year, region (across New Zealand) and customer segment to drill down into specific areas of interest. (Please download the attached file to explore.)
+The final output is a single-page, interactive dashboard offering a comprehensive view of business performance. Stakeholders can filter data by year, region (across New Zealand) and customer segment to drill down into specific areas of interest. 
+<img width="1426" height="868" alt="image" src="https://github.com/user-attachments/assets/7fcb124f-1fc3-4fe4-8d38-ca64f394dd61" />
 
 🏆 **Conclusion**
 This project demonstrates a complete, end-to-end analytical workflow within Microsoft Excel. It proves that with a solid framework, any dataset can be transformed into a strategic asset that tells a compelling story and drives informed business decisions. 
@@ -41,5 +42,9 @@ The complete project, including the final Excel dashboard, the framework for cre
 - [`Dashboard & Dataset.xlsx`](https://github.com/zar-moethu/NZ-Ecommerce-Excel-Dashboard/blob/Dashboard/Dashboard%20%26%20Dataset.xlsx) – Interactive Excel dashboard and cleaned dataset  
 - [`Dashboard Overview.png`](https://github.com/zar-moethu/NZ-Ecommerce-Excel-Dashboard/blob/Dashboard/Dashboard%20Overview.png) – Visual preview of the dashboard
 
+**How to use this project:**
+
+I believe every analyst’s journey is strengthened by openness to feedback mindset. I welcome your thoughts, suggestions and collaboration on this project.
+Feel free to download, explore, and adapt the dashboard for your own analysis or business needs. If you have feedback or want to collaborate, please reach out.
 
 
