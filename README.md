@@ -37,7 +37,7 @@ This project demonstrates a complete, end-to-end analytical workflow within Micr
 📂 Project Files
 The complete project—including the final Excel dashboard, the framework for creating PivotTables and PivotCharts, KPI metric calculations, and the cleaned data source—can be found in this repository.
 
-Final Dashboard: The interactive Excel file (.xlsx) is located in the Dashboard-File/ folder.
+Final Dashboard: The interactive Excel file (Dashboard & Dataset.xlsx) is located in the Dashboard-File/ folder.
 
 
 
