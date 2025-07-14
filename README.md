@@ -46,6 +46,7 @@ The final result is a single-page interactive dashboard showing a comprehensive 
 <img width="712" height="428" alt="image" src="https://github.com/user-attachments/assets/11ad430b-4569-483e-8e89-f9c17ecea258" />
 
 
+
 📂 **Project Files**
 The complete project, including the final Excel dashboard, the framework for creating PivotTables and PivotCharts, KPI metric calculations and the cleaned data source can be found in this repository.
 
