@@ -1,7 +1,7 @@
-Learning:
+****Learning****:
 Every project, no matter how complex it seems, can be tackled with a clear framework and a willingness to iterate.Effective data analytics doesn't have to be complex. It's about starting simple, understanding stakeholder needs, and building a solution that turns data into decisions.
 
-📖 The Stages of Data Analysis
+📖 ****The Stages of Data Analysis****
 This project followed a complete end-to-end data analysis approach. Here’s what each stage looked like:
 
 1. Business Understanding
@@ -31,19 +31,15 @@ With a clean dataset and enhances features, we used Excel PivotTables, Pivotchar
 
 The final output is a single-page, interactive dashboard offering a comprehensive view of business performance. Stakeholders can filter data by year, region (across New Zealand) and customer segment to drill down into specific areas of interest. (Please download the attached file to explore.)
 
-🏆 Conclusion
+🏆 **Conclusion**
 This project demonstrates a complete, end-to-end analytical workflow within Microsoft Excel. It proves that with a solid framework, any dataset can be transformed into a strategic asset that tells a compelling story and drives informed business decisions. 
 
-📂 Project Files
+📂 ***Project Files***
 The complete project, including the final Excel dashboard, the framework for creating PivotTables and PivotCharts, KPI metric calculations and the cleaned data source can be found in this repository.
 
 Final Dashboard with Cleaned Dataset:
-- [`Dashboard & Dataset.xlsx`](https://github.com/zar-moethu/NZ-Ecommerce-Excel-Dashboard/blob/Dashboard/Dashboard%20%26%20Dataset.xlsx) – Interactive Excel dashboard and cleaned dataset
-- [`data_dictionary.csv`](#) – Data dictionary for key fields *(replace # with your file link if available)*
-- [`dashboard_screenshot.png`](#) – Visual preview of the dashboard *(replace # with your file link if available)*
-
-
-
+- [`Dashboard & Dataset.xlsx`](https://github.com/zar-moethu/NZ-Ecommerce-Excel-Dashboard/blob/Dashboard/Dashboard%20%26%20Dataset.xlsx) – Interactive Excel dashboard and cleaned dataset  
+- [`Dashboard Overview.png`](https://github.com/zar-moethu/NZ-Ecommerce-Excel-Dashboard/blob/Dashboard/Dashboard%20Overview.png) – Visual preview of the dashboard
 
 
 
