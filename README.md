@@ -4,7 +4,8 @@ Effective data analytics doesn't have to be complex. It's about starting with a 
 The dataset was custom-built using the Python programming language and the final dashboard was developed entirely in Microsoft Excel, demonstrating that powerful business intelligence tools can be both accessible and highly effective.
 
 📊 Dashboard Overview
-The final output of this analysis is a single-page, interactive dashboard that provides a comprehensive view of business performance. Stakeholders can filter data by year, region, and customer segment to drill down into specific areas of interest.
+The final output of this analysis is a single-page, interactive dashboard that provides a comprehensive view of business performance. Stakeholders can filter data by year, region, and customer segment to drill down into specific areas of interest.<img width="1427" height="854" alt="image" src="https://github.com/user-attachments/assets/68785763-f746-4112-bb2f-415af982fde4" />
+
 
 The stages of data anaylsis is outline below:
 
