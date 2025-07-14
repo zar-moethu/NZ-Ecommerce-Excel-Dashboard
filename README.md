@@ -45,10 +45,10 @@ The final result is a single-page interactive dashboard showing a comprehensive 
 
 <img width="712" height="428" alt="image" src="https://github.com/user-attachments/assets/11ad430b-4569-483e-8e89-f9c17ecea258" />
 
+
 📂 **Project Files**
 The complete project, including the final Excel dashboard, the framework for creating PivotTables and PivotCharts, KPI metric calculations and the cleaned data source can be found in this repository.
 
-*Final Dashboard with Cleaned Dataset*:
 - [`Dashboard & Dataset.xlsx`](https://github.com/zar-moethu/NZ-Ecommerce-Excel-Dashboard/blob/Dashboard/Dashboard%20%26%20Dataset.xlsx) – Interactive Excel dashboard and cleaned dataset  
 - [`Dashboard Overview.png`](https://github.com/zar-moethu/NZ-Ecommerce-Excel-Dashboard/blob/Dashboard/Dashboard%20Overview.png) – Visual preview of the dashboard
 
