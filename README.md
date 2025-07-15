@@ -55,7 +55,8 @@ The complete project, including the final Excel dashboard, the framework for cre
 
 **How to use this project:**
 I believe every analyst’s journey is strengthened by an open mindset and a willingness to receive feedback. I welcome your thoughts, suggestions and collaboration on this project.
-
 Feel free to download, explore, and adapt the dashboard for your own analysis or business needs. If you have feedback or want to collaborate, please reach out.
+
+⚠️ Disclaimer: This dashboard is intended for visual learning and demonstration purposes only — not for business or operational use.
 
 
